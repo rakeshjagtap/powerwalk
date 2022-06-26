@@ -1,9 +1,15 @@
 {
-  "powerwalks": [
+  "PowerWalks": [
     {
       "id": 1,
       "user": "Niket",
-      "date": "25-June-22",
+      "date": "20-June-22",
+      "distance": "2.5"
+    },
+    {
+      "id": 2,
+      "user": "Sushil",
+      "date": "20-June-22",
       "distance": "2"
     }
   ]
